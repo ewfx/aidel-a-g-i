@@ -47,4 +47,4 @@ Tech Stack
 2. Backend: Python
 3. Data Processing: JSON
 4. Testing: Unit tests with sample datasets
-5. TeamYour Name - GitHub | LinkedIn
+5. Team -  Savita Gupta | https://github.com/ewfx/aidel-a-g-i/tree/main/code
